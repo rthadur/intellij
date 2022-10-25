@@ -26,7 +26,7 @@ cd my-new-thing
 git init
 cp -r ../new-project/* ../new-project/.github .
 git add *
-git commit -a -m 'Boilerplate for new Google open source project'
+git commit -a -m 'Boilerplate for new Google open source project'.
 ```
 
 ## Source Code Headers
